@@ -1,0 +1,34 @@
+.craving{
+display: flex;
+position: fixed;
+align-items: center;
+color: black;
+height: 40px;
+font-size: 18px;
+font-family: roboto;
+font-weight: 600;
+top: 200px;
+left: 10px;
+right: 0;
+
+}
+
+.food-types{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 250px;
+    left: 35px;
+    right: 35px;
+}
+
+.food-img{
+    height: 80px;
+}
+
+.food-type-text{
+    font-size: 12px;
+    text-align: center;
+    top: 250px;
+}

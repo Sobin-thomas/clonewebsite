@@ -1,0 +1,31 @@
+.bottom-menu{
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 56px;
+    z-index: 200px;
+    
+    
+    background-color: white;
+    color: gray;
+    box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.2);
+    
+    
+}
+
+.bottom-logo-img{
+    height: 20px;
+}
+
+.bottom-logo-img-div{
+   padding-right: 30px;
+}
+
+.bottom-logo-img-div{
+    padding-right: 30px;
+}

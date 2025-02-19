@@ -1,0 +1,27 @@
+.whats-new{
+    display: flex;
+    position: fixed;
+    top: 343px;
+    left: 15px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Roboto;
+}
+
+.new-food-items{
+    display: flex;
+   position: relative;
+   flex-direction: row;
+   justify-content: space-between;
+  
+   top: 388px;
+   left: -10px;
+}
+
+.new-food-img{
+    height: 170px;
+    width: 301px;
+    border-radius: 5px;
+    margin-left: 20px;
+    left: 10px;
+} 

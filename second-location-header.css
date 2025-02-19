@@ -1,0 +1,57 @@
+.second-location-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    height: 56px;
+    top: 68px;
+    left: 0;
+    right: 0px;
+    background-color: #1e5491;
+}
+
+.second-left-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    width: 200px;
+    background-color: #1e5491;
+
+  
+}
+
+.second-location-pin{
+    height: 37px;
+    margin-top: 3px;
+    margin-left: 7px;
+    margin-right: 3px;
+}
+
+.location-text-2{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+   
+    
+}
+
+.second-right-section{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.detect-location-button{
+    height: 33px;
+    width: 110px;
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    background-color: #1e5491;
+    border-radius: 5px;
+    font-family: Roboto;
+    font-size: 14px;
+}
+
